@@ -1,0 +1,25 @@
+print("It is a simple calculator")
+print("Select an operation")
+print("1.Addition \n2.Subtraction  \n3.Multiplication \n4.Division \n0.Exit")  # it is command (operators)
+
+while True:
+    operation = int(input("Enter a choice = "))      #if enter 0 then the program will be exit.
+    if operation == 0:
+        break
+    num1=float(input('Enter a number 1 = '))   
+    num2=float(input('Enter a number 2 = '))
+
+    if operation == 1:
+        print(f"The sum of the two number is {num1+num2}")   #  eg:- add operation works
+    elif operation == 2:
+        print(f"The difference of the two number is {num1-num2}")
+    elif operation == 3:
+        print((f"The multiple of the two number is {num1*num2}"))
+    elif operation == 4:
+        print((f"The division of the two number is {num1/num2}"))
+    else:
+        print("Invalid choice")
+
+
+
+
