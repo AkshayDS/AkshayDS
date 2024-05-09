@@ -1,0 +1,10 @@
+import qrcode
+print("QR Code Generator")
+print("Created by @Akshay")
+
+data= input("Enter input== ")
+
+
+qr = qrcode.make(data)
+qr.save("C:/Users/AKSHAY ds/Desktop/qrcode.png")
+print("QR code generation successful")
