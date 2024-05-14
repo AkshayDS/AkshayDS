@@ -1,5 +1,5 @@
 import telebot
-Token = "7008475286:AAFs6Ze3_HRm8DrH3HPstjJl1xaHIL7hhwY"
+Token = ""   # ADD THE API ADDRESS
 bot = telebot.TeleBot(Token)
 @bot.message_handler(['start'])
 def start(message):
