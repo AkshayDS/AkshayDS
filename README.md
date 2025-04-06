@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning SQL and ADA<br>Ask me about Python Programming, MS World<br>Reach out me at dsakshay93@gmail.com
+I'm currently learning SQL and ADA<br>Ask me about Python Programming, MS World<br>Reach out me at akshayakki4898@gmail.com
 
 
 ## 🌐 Socials:
